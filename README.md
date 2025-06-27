@@ -12,6 +12,13 @@ Major Project: Enhancing a Community Library Website
 <body>
   <h1>Welcome to Our Website!</h1>
   <p>This is the contact us page.</p>
+  <nav>
+  <a href="home.html">Home</a> |
+  <a href="about_us.html">About Us</a> |
+  <a href="events.html">Events</a> |
+  <a href="contact_us.html">Contact Us</a>
+</nav>
+
 </body>
 </html>
 
