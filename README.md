@@ -4,7 +4,8 @@ Major Project: Enhancing a Community Library Website
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Home Page</title>
+  <h1>Home</h1>
+<p>Welcome to our homepage. Discover who we are and what we offer.</p>
 </head>
 <body>
   <h1>Welcome to Our Website!</h1>
