@@ -4,7 +4,7 @@ Major Project: Enhancing a Community Library Website
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title> book-reviews</title>
+   book-reviews
 </head>
 <body>
   <h1>Welcome to Our Website!</h1>
