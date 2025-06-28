@@ -4,10 +4,14 @@ Major Project: Enhancing a Community Library Website
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Book Reviews</title>
+  update-events
 </head>
 <body>
-  <h1>Book Reviews</h1>
-  <p>This page contains reviews for popular books. More coming soon!</p>
+  ul>
+  <li><strong>May 12:</strong> Neighborhood Cleanup at Central Park</li>
+  <li><strong>June 3:</strong> Community Potluck at Town Hall</li>
+</ul>
+  <li><strong>July 15:</strong> Music Festival at Riverfront Park</li> <!-- New event -->
+</ul>
 </body>
 </html>
