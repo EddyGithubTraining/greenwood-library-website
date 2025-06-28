@@ -7,7 +7,7 @@ Major Project: Enhancing a Community Library Website
   update-events
 </head>
 <body>
-  ul>
+
   <li><strong>May 12:</strong> Neighborhood Cleanup at Central Park</li>
   <li><strong>June 3:</strong> Community Potluck at Town Hall</li>
 </ul>
