@@ -1,13 +1,13 @@
 # greenwood-library-website
 Major Project: Enhancing a Community Library Website
+
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8">
-   book-reviews
+  <title>Book Reviews</title>
 </head>
 <body>
-  <h1>Welcome to Our Website!</h1>
-  <p>This is the book-reviews page.</p>
+  <h1>Book Reviews</h1>
+  <p>This page contains reviews for popular books. More coming soon!</p>
 </body>
 </html>
